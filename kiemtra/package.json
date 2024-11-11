@@ -11,12 +11,13 @@
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.5",
-    "react-native-paper": "4.9.2",
-    "@expo/vector-icons": "^14.0.3",
+    "axios": "*",
+    "redux": "5.0.0",
     "react-redux": "*",
     "@types/react": "18.2.25",
-    "redux": "5.0.0",
-    "@reduxjs/toolkit": "*"
+    "@reduxjs/toolkit": "*",
+    "@expo/vector-icons": "^14.0.3",
+    "react-native-paper": "4.9.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
